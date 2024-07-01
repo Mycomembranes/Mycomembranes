@@ -1,4 +1,5 @@
 
+
 **Welcome to My GitHub Profile! 🌟**
 
 **About Me**
@@ -18,6 +19,12 @@ Beyond the lab, I'm passionate about exploring how quantum phenomena might influ
 * **Coral Research:** Integrating higher-order organisms into coral reef systems to study ecosystem dynamics and resilience.
 * **Quantum Biology Exploration:** Investigating the intersection of quantum physics and biology, with a particular focus on corals.
 
+**Community Involvement**
+I am passionate about giving back to the community through **STEAM Train 501(c)3**, a non-profit organization dedicated to promoting education in Science, Technology, Engineering, Arts, and Mathematics. I believe in using my knowledge and resources to foster world peace and make a positive impact on society.
+
+**Dedication to World Peace**
+My work is driven by a commitment to world peace and the betterment of humanity. I strive to leverage my research and the power of the internet to fill in knowledge gaps, connect with like-minded individuals, and drive forward innovative solutions to global challenges.
+
 **Get in Touch**
 
 I am always open to collaboration, discussions, or just a chat about science. Feel free to connect with me through the following platforms:
@@ -25,6 +32,4 @@ I am always open to collaboration, discussions, or just a chat about science. Fe
 **Twitter:** [@mukshud_ahamed](https://twitter.com/mukshud_ahamed)
 
 Let's push the boundaries of science together!
-
----
 

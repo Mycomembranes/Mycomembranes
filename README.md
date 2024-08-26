@@ -4,7 +4,7 @@
 
 **About Me**
 
-Hello! I'm Mukshud Ahamed, a researcher deeply engaged in the confluence of biology, quantum physics, and climate science. My primary research concerns the intricate details of the mycobacterial cell envelope, particularly focusing on identifying cell surface proteins and understanding the evolution of protein superfamilies critical for outer membrane biogenesis.
+Hello! I'm Mukshud Ahamed, a researcher deeply engaged in the confluence of biology, evolution, chemical biology, genomics and quantum biology. My primary research concerns the intricate details of the mycobacterial cell envelope, particularly focusing on identifying cell surface proteins and understanding the evolution of protein superfamilies critical for outer membrane biogenesis.
 
 Beyond the lab, I'm passionate about exploring how quantum phenomena might influence complex biological systems, such as corals. I'm also committed to addressing the pressing issue of climate change, with a keen interest in its impact on vulnerable ecosystems like coral reefs.
 

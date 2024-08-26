@@ -10,7 +10,9 @@ Beyond the lab, I'm passionate about exploring how quantum phenomena might influ
 
 **Research Interests**
 * **Microbiology:** Investigating the cell envelope of mycobacteria, protein evolution, and mechanisms of outer membrane biogenesis.
-* **Evolution & Sensitive Sequence Analysis**
+* **Evolution & Sensitive Sequence Analysis** 
+* **Genomics** Understanding the role of protein systems across the tree of life
+* **Chemical Biology** Proximity labeling of the mycobacterial cell surface
 * **Quantum Biology:** Exploring the potential role of quantum effects in biological systems and their implications.
 * **Coral Biology:** Studying coral biochemistry, medicinal compounds, and the impacts of climate change on coral ecosystems.
 * **Climate Change:** Understanding the effects of climate change and developing strategies for mitigation and adaptation.
